@@ -34,7 +34,17 @@ const nicolas = {
   challenge: "I am doing the #100DaysOfSwiftUI challenge also focused in animations challenges in React Native"
 }
 ```
+## 🗂️ Highlight Projects
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoache1&repo=reanimated-2-animations-challenges&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="reanimated-2-animations-challenges" />
+</a>
+
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoache1&repo=rtkq-pokedex-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="rtkq-pokedex-app" />
+</a>
+
 
 ---
+
