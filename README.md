@@ -34,6 +34,13 @@ const nicolas = {
   challenge: "I am doing the #100DaysOfSwiftUI challenge also focused in animations challenges in React Native"
 }
 ```
+
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoache1&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/nicoache1/reanimated-2-animations-challenges">
