@@ -36,12 +36,12 @@ const nicolas = {
 ```
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+<a href="https://github.com/nicoache1/reanimated-2-animations-challenges">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoache1&repo=reanimated-2-animations-challenges&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="reanimated-2-animations-challenges" />
 </a>
 
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
+<a href="https://github.com/nicoache1/rtkq-pokedex-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoache1&repo=rtkq-pokedex-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="rtkq-pokedex-app" />
 </a>
 
