@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nicolas! <img src="https://media.giphy.com/media/vId61OsHqHffW/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300">
-<p><em>Software Enginner at Uruguay <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Engineer & Team Lead at <a href="https://www.xmartlabs.com">Xmartlabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at Uruguay <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mobile Engineer & Engineering Manager at <a href="https://www.xmartlabs.com">Xmartlabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
