@@ -20,18 +20,18 @@ const nicolas = {
   tools: [React, Redux, React-Native, Reanimated2, Flutter, SwiftUI, Node, Figma],
   technologies: {
         backEnd: {
-            ts: ["Node", "Typeorm", "Express"],
+            ts: ["Node", "Typeorm", "Express", "Prisma"],
         },
         mobileApp: {
-            native: ["IOS Development"],
+            native: ["iOS Development"],
             cross-platform: ["React-Native", "Flutter"]
         },
         devOps: ["Bitrise", "Docker🐳", "Heroku", "Github Actions"],
         databases: ["MongoDB", "sqlite", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "Figma", "Miro"]
+        misc: ["Firebase", "Supabase", "Socket.IO", "Figma", "Miro"]
     },
-  currentFocus: "Mobile App Development",
-  challenge: "I am doing the #100DaysOfSwiftUI challenge also focused in animations challenges in React Native"
+  currentFocus: "Mobile App Development & Management",
+  challenge: "I am doing focused animations challenges in React Native"
 }
 ```
 
