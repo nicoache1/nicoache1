@@ -56,6 +56,10 @@ const nicolas = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoache1&repo=trivia-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="trivia-app" />
 </a>
 
+<a href="https://github.com/nicoache1/movie_reservation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicoache1&repo=movie_reservation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="movie_reservation" />
+</a>
+
 
 ---
 
